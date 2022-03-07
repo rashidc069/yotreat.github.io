@@ -1,0 +1,41 @@
+#simple3D {
+  position: absolute;
+  z-index: 1;
+  width: 100vw !important;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -1;
+  background-color: #f89623;
+}
+#simple3D div {
+  min-height: 1100px;
+  width: 120%;
+  height: 120%''
+}
+#simple3D div.dot {
+  background: url(../images/one.png) no-repeat 100%;
+  background-position: center;
+  background-size: contain;
+
+}
+#simple3D div.kinoco {
+  background: url(../images/two.png) no-repeat 100%;
+  background-position: center;
+  background-size: contain;
+}
+#simple3D div.star {
+  background: url(../img/3.png) no-repeat 100%;
+  background-position: center;
+}
+
+#one {
+  background: url(../images/three.png) no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  position: relative;
+ }
+.bannertxt {
+  position: absolute;
+  top: 20%;
+  padding:0 150px;
+}

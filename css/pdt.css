@@ -1,0 +1,30 @@
+header {
+	height: 80px;
+}
+nav {
+	background-color: #fdca00;
+}
+
+h5 {
+	font-size: 14px;
+}
+figure {
+	margin-bottom: 30px;
+}
+figure img {
+	height: 250px;
+	margin-bottom: 10px;
+}
+.col-xs-4.col-sm-4.col-md-3:hover {
+	background-color: #dcdcdc47;
+	transition: 0.3s;
+}
+
+
+div.clearfix {
+	height: 60px;
+}
+
+@media (max-width: 767px){
+	
+}
